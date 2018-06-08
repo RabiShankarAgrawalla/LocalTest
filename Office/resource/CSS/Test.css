@@ -1,0 +1,96 @@
+/* --- LISTBOX --- */
+.ListBoxTest{
+    font-weight         : normal;
+    font-size           : 14px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+}
+/* --- SELECT_ VALUE --- */
+.Select_ValueTest{
+    font-weight         : normal;
+    font-size           : 13px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+}
+/* --- LABEL --- */
+.LabelTest{
+    font-weight         : bold;
+    font-size           : 13px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	margin-top          :1px;
+	margin-bottom       :1px;
+	margin-left         :2px
+}
+.LabelTitle_ValueTest{
+    font-weight         : normal;
+    font-size           : 12px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+    height		: 20px;
+    margin-top          : 5px;
+    margin-bottom       : 5px;
+}
+
+/* --- TEXTBOX --- */
+.TextBoxTest{
+    font-size           : 13px;
+	font-weight         : bold;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	margin              : 2px;
+}
+
+.TextBox_RightTest{
+    font-weight         : normal;
+    font-size           : 12px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+    text-align		: right;
+}
+
+/* --- DROPDOWN --- */
+.DropDownTest{
+   font-size           : 13px;
+	font-weight         : bold;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	margin              : 2px;
+}
+/* --- CHECKBOX --- */
+.CheckBoxTest{
+    font-size           : 13px;
+	font-weight         : bold;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	margin              :2px;
+}
+/* --- RADIOBUTTONLIST --- */
+.RadioListTest{
+    font-size           : 12px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+}
+/* --- RADIOBUTTON --- */
+.RadioButtonTest{
+    font-size           : 12px;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	font-weight         : bold;
+}
+/* --- RADIOBUTTON_VALUE --- */
+.RadioButton_ValueTest{
+    font-size           : 12px;
+    font-family         : "Times New Roman", Georgia, Serif;
+	font-weight         : bold;
+    color               : #FF00FF;
+}
+
+/* --- RADIOBUTTON_TITLE --- */
+.RadioButton_TitleTest{
+    font-size           : 13px;
+	font-weight         : bold;
+    font-family         : "Times New Roman", Georgia, Serif;
+    color               : #FF00FF;
+	margin              : 2px;
+	}

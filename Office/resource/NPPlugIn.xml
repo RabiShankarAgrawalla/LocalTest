@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPPlugIns>
+    <PlugInSetting TypeName="NP.Framework.NPPlugIn_Import" Active="N" Interval="10" Thread="1" />
+    <PlugInSetting TypeName="NP.Framework.NPPlugIn_Export" Active="N" Interval="10" Thread="1" />
+	<PlugInSetting TypeName="NP.Framework.TASK_SendEmail" Active="N" Interval="3600" Thread="1" />
+	<PlugInSetting TypeName="NP.Framework.UniqueCustomerCheck" Active="N" Interval="21600" Thread="1" />
+	<PlugInSetting TypeName="NP.Framework.ImportDataWS" Active="N" Interval="60" Thread="1" />
+	<PlugInSetting TypeName="NP.Framework.NPHeartbeat" Active="N" Interval="900" Thread="1"  Port ="80" Protocol="HTTP"/>
+</NPPlugIns>
+
+
